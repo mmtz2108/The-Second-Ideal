@@ -4,5 +4,5 @@ document.querySelector("body").appendChild(h2);
 
 const Marcos = document.getElementById('Marcos');
 Marcos.addEventListener('click', function() {
-  alert(`How often do you click on stranger's faces?`);
+  alert(`How often do you click on strangers' faces?`);
 });
